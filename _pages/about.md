@@ -22,4 +22,4 @@ Hi! I am a Ph.D. student in Computer Science at the University of Campinas, Braz
 
 My areas of research are machine learning and digital forensics. Specifically, I work on the development of an automated method to determine whether a piece of social media data is related or not to a given forensic event.
 
-Currently, I am doing an internship at the Polytechnic University of Milan, invited by Prof. [Paolo Bestagini](https://bestagini.faculty.polimi.it/), and working in the [Image and Sound Processing Lab (ISPL)](http://ispl.deib.polimi.it/).
+Currently, I am doing an internship at the Polytechnic University of Milan, under the supervision of Prof. [Paolo Bestagini](https://bestagini.faculty.polimi.it/), and working in the [Image and Sound Processing Lab (ISPL)](http://ispl.deib.polimi.it/).
