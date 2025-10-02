@@ -18,6 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D. student in Computer Science at the University of Campinas, Brazil, where my advisor is Prof. [Anderson Rocha](https://www.ic.unicamp.br/~rocha/), and I am a member of the [Artificial Intelligence (Recod.ai) lab](http://recod.ai/).
-
-My areas of research are machine learning and multimedia forensics. Specifically, I work under the [DejáVù Project](https://www.ic.unicamp.br/~dejavu/) on the development of an automated method to determine whether a piece of social media data is related or not to a given forensic event.
+Hi! I am an AI Specialist with a Ph.D. in Computer Science from the University of Campinas, Brazil. My doctoral research, conducted under the [DejáVù Project](https://www.ic.unicamp.br/~dejavu/) and advised by Prof. [Anderson Rocha](https://www.ic.unicamp.br/~rocha/) at the [Artificial Intelligence (Recod.ai) lab](http://recod.ai/) lab, focused on developing AI methods to identify whether social media content is connected to specific forensic events. Today, I leverage this expertise to design and apply AI solutions that address real-world challenges.
